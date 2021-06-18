@@ -1,6 +1,6 @@
 # Discord-Bot-Research
 
-## Discord Account Creation
+## 1. Discord Account Creation
 A new user creation is almost always helpful for testing a Discord server.  
 Here I'm pointing out some useful information about the Discord Account Creation.  
 ### reCAPTCHA Challenge for the new Discord users
